@@ -1,0 +1,9 @@
+---
+---
+
+@import
+  "flatly/variables",
+  "bootstrap/bootstrap",
+  "flatly/bootswatch",
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
